@@ -14,5 +14,9 @@
 4) Reversing 32 bits : https://practice.geeksforgeeks.org/problems/reverse-bits3556/1
 5) Counting Bits : https://leetcode.com/problems/counting-bits/
 
+## Unique :
+1) single element that appears only once : https://leetcode.com/problems/single-element-in-a-sorted-array/
+2) find 2 unique numbers in an array where all numbers except two, are present twice.
+3) find a unique number in an array where all numbers except one, are present thrice. 
 
 
