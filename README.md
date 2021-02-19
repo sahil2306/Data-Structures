@@ -1,4 +1,4 @@
-# Data-Structures
+# Data Structures & Algorithms
 
 Various Data Structures & Algorithms  
 

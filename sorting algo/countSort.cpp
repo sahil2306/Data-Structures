@@ -29,7 +29,5 @@ int main(){
     
     countsort(arr,n);
     
-    
-    
     return 0;
 }
